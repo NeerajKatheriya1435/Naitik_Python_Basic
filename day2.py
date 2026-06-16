@@ -53,5 +53,5 @@ str1="Hello guys kaise ho kah ja rahe ho"
 # str1 = "Python is a Interpreted Language"
 # print(str1.swapcase())
 
-str1 = "He's name is Dan. Dan is an honest man."
-print(str1.title())
+# str1 = "He's name is Dan. Dan is an honest man."
+# print(str1.title())
