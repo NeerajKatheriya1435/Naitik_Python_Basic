@@ -8,7 +8,6 @@
 # elif(age>100):
 #     print("You are overaged")
 
-num1=56
-num2=45
-num3=67
-
+# num1=56
+# num2=45
+# num3=67
